@@ -1,1 +1,1 @@
-<img width="2035" height="100" alt="image" src="[https://files.catbox.moe/f0hwrx.jpg)](https://i.pinimg.com/736x/1e/bd/64/1ebd64709e963c3a05a86b9a1c747faf.jpg]" />
+<img width="2035" height="100" alt="image" src="https://vignette.wikia.nocookie.net/everymanhybrid/images/6/63/Screenshot_375.png/revision/latest/scale-to-width-down/310?cb=20170729153154" />
