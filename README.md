@@ -1,6 +1,6 @@
 <img align="right" width="600" height="600" alt="image" src="https://64.media.tumblr.com/4616e12b40818194714a016dc8a39dde/f50c6ca9c60ca898-83/s1280x1920/638ecd43ea7c0953308851a54eed5b8605f4febf.jpg" />
-<img align="center" width="390" height="100" alt="image" src="https://clipart-library.com/new_gallery/21-218820_white-angel-wings-png-image-background-white-angel.png" />
+<img align="center" width="350" height="100" alt="image" src="https://clipart-library.com/new_gallery/21-218820_white-angel-wings-png-image-background-white-angel.png" />
 <h5 align="center">  Evan / Jay  </h5>
 <h6 align="center">  18 - system - he/him </h6>
 <h6 align="center">  Please go check out my strawpage! </h6>
-<img align="left" width="370" height="100" alt="image" src="https://www.maisondemoon.com.au/wp-content/uploads/2020/08/clipart-wave-divider-13-2048x569.png" />
+<img align="left" width="350" height="100" alt="image" src="https://www.maisondemoon.com.au/wp-content/uploads/2020/08/clipart-wave-divider-13-2048x569.png" />
