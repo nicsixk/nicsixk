@@ -4,4 +4,4 @@
 <h6 align="center">  Please check out my strawpage!
 
   
-<img align="left" width="100" height="100" alt="image" src="https://64.media.tumblr.com/c768b357044014ad6ac2e394d9285a01/bb1ae1d6fec143e1-97/s1280x1920/6ce84803182da634ba9fe4891b1dca277bd42934.pnj" />
+<img align="left" width="100" height="100" alt="image" src="https://64.media.tumblr.com/801a08572c67f2510c1770886aa6ca16/24a1316a9dd0c2cc-ee/s640x960/2d7c50d8c9f7d6787a3f70c614c694eebb7589eb.pnj" />
