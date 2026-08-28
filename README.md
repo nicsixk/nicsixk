@@ -3,4 +3,4 @@
 <h5 align="center">  Evan / Jay  </h5>
 <h6 align="center">  18 - system - he/him </h6>
 <h6 align="center">  Please go check out my strawpage! </h6>
-<img align="left" width="200" height="200" alt="image" src="https://www.maisondemoon.com.au/wp-content/uploads/2020/08/clipart-wave-divider-13-2048x569.png"
+<img align="left" width="200" height="200" alt="image" src="https://www.maisondemoon.com.au/wp-content/uploads/2020/08/clipart-wave-divider-13-2048x569.png" />
